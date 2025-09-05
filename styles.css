@@ -73,8 +73,14 @@ img {
     display: inline;
     margin-left: 18px;
     margin-right: 18px;
-    width: 80%;
-    border-radius: 6px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(140, 140, 140);
+    width: 35%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 18px;
+    padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }    
 a{
@@ -82,3 +88,4 @@ a{
     text-decoration: none;
 
 }
+
