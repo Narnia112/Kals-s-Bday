@@ -74,10 +74,11 @@ img {
     margin-left: 18px;
     margin-right: 18px;
     width: 80%;
-    border-radius: 18px;
+    border-radius: 6px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }    
 a{
     color: #a5a5a5;
     text-decoration: none;
+
 }
