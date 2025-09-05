@@ -28,7 +28,19 @@ p{
 }
 #subtext{
     font-size: 10px;
-}
+}
+div{
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(140, 140, 140);
+    width: 35%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 18px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 footer {
     width: 100%;
     padding: 1.5rem 0;
@@ -58,25 +70,16 @@ h1{
 
 }
 img {
-    display: center;
-    margin-left: 18px;
-    margin-right: 18px;
-    text-align: center;
-    margin-bottom: 20px;
-    width: 35%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-radius: 18px;
-    padding: 20px;
+    display: grid;
+    place-items: center;
+    margin: 18px;
+    width: 80%;
+    border-radius: 8%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }    
 a{
     color: #a5a5a5;
     text-decoration: none;
-
+    display: grid;
+    place-items: center;
 }
-#a{
-    text-decoration: none;
-    color: rgba(0, 0, 0, 0)
-}
-
